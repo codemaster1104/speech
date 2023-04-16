@@ -10,3 +10,5 @@ to run the code:
 3)in the path variable put the path of chrome or desired web browser and change all "\" in path with "/" and add " %s" in the end of path
 
 4)Now say the name of desired website for eg "amazon.com"
+
+NOTE: wait for 0.5 sec after it says 'say something'
