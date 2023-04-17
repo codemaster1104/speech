@@ -13,3 +13,8 @@ to run the code:
 
 NOTE: wait for 0.5 sec after it says 'say something'
 (pls ignore the vercel :/)
+
+I have also converted this into an python app using pyinstaller below is the drive link for zip file:
+https://drive.google.com/file/d/19780SN9yzbkrnZhXl6pQ2WyF35h1QF5O/view?usp=share_link
+
+(i have hardcoded the location of google chrome so it might not work on every pc)
