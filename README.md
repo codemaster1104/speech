@@ -2,10 +2,10 @@
 with this program you can open any webpage by speech
 to run the code:
 1)install SpeechRecognition library
-          pip install SpeechRecognition
+          (pip install SpeechRecognition)
 
 2)install pyaudio
-          pip install pyaudio
+          (pip install pyaudio)
 
 3)in the path variable put the path of chrome or desired web browser and change all "\" in path with "/" and add " %s" in the end of path
 
