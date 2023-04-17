@@ -19,6 +19,6 @@ https://drive.google.com/file/d/19780SN9yzbkrnZhXl6pQ2WyF35h1QF5O/view?usp=share
 
 (i have hardcoded the location of google chrome so it might not work on every pc)
 
-app.py is the code used in drive
-given below is the example vedio of thr functioning of app:
+app.py is the code used in drive.
+Given below is the example vedio of the installation and functioning of app:
 https://drive.google.com/file/d/1ieb6BSEXSzNWEG2_URFtDeUNfnmP3rOx/view?usp=share_link
