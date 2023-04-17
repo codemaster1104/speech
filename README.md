@@ -1,6 +1,6 @@
 # search my voice
 with this program you can open any webpage by speech
-to run the code:
+to run the code(main.py):
 1)install SpeechRecognition library
           (pip install SpeechRecognition)
 
@@ -18,3 +18,5 @@ I have also converted this into an python app using pyinstaller below is the dri
 https://drive.google.com/file/d/19780SN9yzbkrnZhXl6pQ2WyF35h1QF5O/view?usp=share_link
 
 (i have hardcoded the location of google chrome so it might not work on every pc)
+
+app.py is the code used in drive
