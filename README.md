@@ -12,3 +12,4 @@ to run the code:
 4)Now say the name of desired website for eg "amazon.com"
 
 NOTE: wait for 0.5 sec after it says 'say something'
+(pls ignore the vercel :/)
